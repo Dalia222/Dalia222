@@ -1,6 +1,5 @@
 
-<h1 align="center">Hi there 👋, I'm Dalia</h1>
-<h3 align="center">🎓 A Computer Science student specializing in Artificial Intelligence (AI). 💡 Enthusiastic about software engineering and leveraging AI's potential to tackle real-world challenges. 🔍 Exploring the realms of code, algorithms, and the captivating world of machine learning. 🚀 Striving to make a significant contribution to the AI and software engineering landscape. 📚 Bookworm and yogi, finding balance between code and serenity.</h3>
+
 <!-- <img align="right" alt = "Coding" width ="400" src="https://tenor(https://camo.githubusercontent.com/374987f773148e46b1851b9e3bc4bf71b182562dd002620ef3e4263cb3997130/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f3837352f312a7164415731546a434e353768316c6275757a766368672e676966"> -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dalia222&label=Profile%20views&color=0e75b6&style=flat" alt="dalia222" /> </p>
@@ -14,24 +13,6 @@
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/dalia-raafat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/dalia-raafat" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/daliiaraafat/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/daliiaraafat/" height="30" width="40" /></a>
 </p>
-
-<h2 align="center">My projects</h2>
-
-### Project 1: DSK-JF
-Description: E-learning managing system with version control system to manage graduation projects with MERN stack. The system includes profiles for admin, student, teacher, and TA, featuring a responsive frontend and a robust backend with a well-designed database.
-
-![Project 1](https://i.postimg.cc/kXSSfRRg/screencapture-localhost-8080-2023-11-21-18-05-38.png)
-
-GitHub Repository: [DSK-JF](https://github.com/Dalia222/DSK-JF_latest)
-
----
-
-### Project 2: Basma Hotel
-Description: Basma Hotel is a booking management system located in Aswan, Egypt, designed to enhance the tourist experience with a spectacular view, incredible facilities, and a user-friendly booking process. The system includes profiles for both admin and guests, featuring a responsive frontend built with EJS and Node.js functionality.
-
-![Project 2](https://i.postimg.cc/76MsGPSx/screencapture-localhost-3000-2023-11-21-18-13-21.png)
-
-GitHub Repository: [Basma-Hotel](https://github.com/Dalia222/Basma_hotel)
 
 
 <h3 align="left">Languages and Tools:</h3>
